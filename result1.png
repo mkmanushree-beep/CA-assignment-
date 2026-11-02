@@ -1,0 +1,16 @@
+a) +46 + (+29)
+
+Operand 1: 00101110
+Operand 2: 00011101
+Binary result: 01001011
+Decimal result: 75
+Overflow: False
+
+
+b) (-48) - (-23)
+
+Operand 1: 11010000
+Operand 2: 00010111
+Binary result: 11100111
+Decimal result: -25
+Overflow: False
