@@ -1,0 +1,18 @@
+a) RCR
+
+Original number: 11010101
+Step 1: 11101010
+Step 2: 01110101
+Step 3: 10111010
+Final result: 10111010
+
+
+b) RCR
+
+Original number: 11010101
+Initial Carry Flag: 0
+Step 1: 01101010 Carry Flag: 1
+Step 2: 10110101 Carry Flag: 0
+Step 3: 01011010 Carry Flag: 1
+Final result: 01011010
+Final Carry Flag: 1
